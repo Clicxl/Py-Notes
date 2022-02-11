@@ -1,6 +1,6 @@
 # Variables 
 
-name = 'Hrishikesh'
+name = 'Clicxl'
 print(name)
 print(type(name))
 
